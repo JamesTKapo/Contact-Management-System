@@ -1,23 +1,4 @@
-//==============================================
-// Name:           James Kapogiannis
-// Student Number: 124448200
-// Email:          jkapogiannis@myseneca.ca
-// Section:        NII
-// Date:
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
-
-
 #include "contacts.h"
-
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        contents here...                         |
-// +-------------------------------------------------+
-
 
 // Clear the standard input buffer
 void clearKeyboard(void);
