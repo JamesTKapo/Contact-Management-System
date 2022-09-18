@@ -1,14 +1,3 @@
-//==============================================
-// Name:           James Kapogiannis
-// Student Number: 124448200
-// Email:          jkapogiannis@myseneca.ca
-// Section:        NII
-// Date:
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
-
 #define _CRT_SECURE_NO_WARNINGS
 
 
@@ -19,11 +8,6 @@
 #include "contacts.h"
 
 #define MAXCONTACTS 5
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        contents below...                        |
-// +-------------------------------------------------+
 
 void clearKeyboard(void)
 {
@@ -185,13 +169,6 @@ void contactManagerSystem(void)
         }
     }
 }
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        empty function definitions below...      |
-// +-------------------------------------------------+
-
-
 
 void getTenDigitPhone(char phoneNum[])
 {
