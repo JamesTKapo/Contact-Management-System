@@ -1,14 +1,3 @@
-//==============================================
-// Name:           James Kapogiannis
-// Student Number: 124448200
-// Email:          jkapogiannis@myseneca.ca
-// Section:        NII
-// Date:
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
@@ -17,10 +6,6 @@
 #include "contactHelpers.h"
 #include "contacts.h"
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-3 |
-// |        source code below...                     |
-// +-------------------------------------------------+
 void getName(struct Name* name)
 {
     int opt;
@@ -159,13 +144,6 @@ void getNumbers(struct Numbers* numbers)
         getTenDigitPhone(numbers->business);
     }
 }
-
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-1 |
-// |        empty function definitions below and     |
-// |        complete the definitions as per the      |
-// |        Milestone-2 specifications               |
-// +-------------------------------------------------+
 
 // getContact
 void getContact(struct Contact* contact)
